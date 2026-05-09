@@ -33,7 +33,7 @@
 
 - **React 19** + **Vite 8**
 - **Zustand** — global state (auth, projects, tasks, UI)
-- **React Router v6** — client-side routing + protected routes
+- **React Router v7** — client-side routing + protected routes
 - **Firebase Auth** — Google OAuth + Email/Password
 - **lucide-react** — icon system
 - **date-fns** — date formatting
